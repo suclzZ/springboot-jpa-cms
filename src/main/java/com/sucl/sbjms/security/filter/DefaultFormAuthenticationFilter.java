@@ -16,7 +16,7 @@ import javax.servlet.ServletResponse;
  * @author sucl
  * @date 2019/4/12
  */
-//@Component("formAuthc")
+@Component("formAuthc1")
 public class DefaultFormAuthenticationFilter extends FormAuthenticationFilter {
 
     @Override
